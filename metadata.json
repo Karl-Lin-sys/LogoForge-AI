@@ -1,0 +1,8 @@
+{
+  "name": "LogoForge AI",
+  "description": "Design a logo for your company based on a description and generate a high-quality animated video of it using Veo and Gemini 3 models.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
